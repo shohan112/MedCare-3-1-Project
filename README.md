@@ -1,0 +1,3 @@
+# MedCare-3-1-Project
+
+This was my 2nd Project uder course-'Software Development II' in my undergrad level.Although i don't submit this to my instructor,but i got a date to submit and may be it's time....
